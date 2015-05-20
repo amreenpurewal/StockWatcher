@@ -24,7 +24,7 @@ public class StockWatcher implements EntryPoint {
   private LoginInfo loginInfo = null;
   private VerticalPanel loginPanel = new VerticalPanel();
   private Label loginLabel = new Label(
-      "Try changing this");
+      "Label Branch");
   private Anchor signInLink = new Anchor("Sign In");
   private Anchor signOutLink = new Anchor("Sign Out");
   private VerticalPanel mainPanel = new VerticalPanel();
